@@ -1,0 +1,81 @@
+error getting ip
+vm 전원 끄고
+
+docker terminal   다시 띄우고
+
+docker pul datascienceschool/rpython
+
+
+docker ps -a
+
+
+https://192.168.99.100:8888/
+
+
+
+https://docs.python.org/2/library/datetime.html#strftime-and-strptime-behavior
+
+
+%%timeit
+
+
+100 numpy exercises
+
+
+quantlib.org
+
+
+
+https://github.com/yhilpisch/py4fi (예제)
+
+
+https://github.com/yhilpisch/py4fi/blob/master/ipython/03_Introductory_Examples.ipynb
+
+https://192.168.99.100:8888/tree/data/py4fi/ipython
+
+
+https://192.168.99.100:8888/notebooks/data/py4fi/ipython/03_Introductory_Examples.ipynb
+
+
+
+.loc  는 컬럼에 대해서도 숫자 사용 가능
+
+
+
+********************
+
+복습
+
+1.
+
+2.
+https://www.datascienceschool.net/view-notebook/704731b41f794b8ea00768f5b0904512/
+
+3.
+https://www.datascienceschool.net/view-notebook/7002e92653434bc88c8c026c3449d27b/
+
+4.
+https://www.datascienceschool.net/view-notebook/aa62265f02fc429aa636ef343c3b1fda/
+
+
+5.
+https://www.datascienceschool.net/view-notebook/a49bde24674a46699639c1fa9bb7e213/
+
+6.
+https://www.datascienceschool.net/view-notebook/76dcd63bba2c4959af15bec41b197e7c/
+
+
+
+
+7.
+tips = sns.load_dataset('tips')
+tips.tail()
+
+
+8.
+https://www.datascienceschool.net/view-notebook/fce2e0fc5a7444f49871bd776f38a3f1/
+
+
+
+
+
